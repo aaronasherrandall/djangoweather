@@ -1,3 +1,4 @@
+# Comment to test if Github is updating
 from django.shortcuts import render
 
 # Create your views here.
